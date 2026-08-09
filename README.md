@@ -364,6 +364,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
 **Stars:** ⭐⭐⭐
 
+#### project-planning-journaling
+**Source:** [mh-mansouri/Project-Planning-Journaling](https://github.com/mh-mansouri/Project-Planning-Journaling) | **Verified:** ⏳
+**Description:** Scopes a project (type, repo, timeline, public vs. private-product path) before any code is written, then sets up and maintains a living, resumable documentation journal with a weekly routine review.
+**Use Case:** Starting a new project, documenting what's been built so far, resuming work in a fresh session without re-reading chat history
+**Stars:** ⭐⭐⭐⭐
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
